@@ -7,4 +7,7 @@ Plasmian OS focuses on being user-friendly and easy to install, and has live mod
 # Can PlasmianOS users consider itself a "larper"?
 Of course, why not?
 
-PS: the ISO file that is in this  repository is a beta version of it, some innacuracies may happen.
+As GitHub was complainig "oh noes the file is too big 😭😭😭" so to download it, click the MediaFire link below
+https://www.mediafire.com/file/pq2cbdprijcq066/live-image-amd64.hybrid.iso/file
+
+PS: the ISO file that is in this repository is a beta version of it, some innacuracies may happen.
